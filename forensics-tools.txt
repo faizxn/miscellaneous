@@ -1,0 +1,22 @@
+<!------- Forensics Tools----------!!!!
+
+# Rekall     		> memory forensics 
+# GRR 		> google rapid response
+# Plaso   		
+# Sleuth Kit
+# Guidance Encase
+# AccessData FTK
+# X-Ways
+# Cellebrite
+# Volatility 
+
+-----------------------------------------
+
+ # Software Reverse Engineering
+
+------------------------------------------
+
+# IDA Pro 
+# OllyDbg
+
+-------------------------------------------
